@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "projects": {
+    "admin-ui": "apps/admin-ui",
+    "admin-ui-e2e": "apps/admin-ui-e2e",
+    "api": "apps/api",
+    "api-util-notifications": "libs/api/util-notifications",
+    "store": "apps/store",
+    "store-e2e": "apps/store-e2e",
+    "store-feature-game-detail": "libs/store/feature-game-detail",
+    "store-ui-shared": "libs/store/ui-shared",
+    "store-ui-shared-e2e": "apps/store-ui-shared-e2e",
+    "store-util-formatters": "libs/store/util-formatters",
+    "util-dates": "libs/util-dates",
+    "util-interface": "libs/util-interface"
+  }
+}
