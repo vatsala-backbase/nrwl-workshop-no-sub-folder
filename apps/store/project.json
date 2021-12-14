@@ -3,9 +3,7 @@
   "root": "apps/store",
   "sourceRoot": "apps/store/src",
   "prefix": "bg-hoard",
-  "implicitDependencies": {
-    ".github/workflows/ci.yml": "*"
-  },
+
   "targets": {
     "build": {
       "executor": "@angular-devkit/build-angular:browser",
